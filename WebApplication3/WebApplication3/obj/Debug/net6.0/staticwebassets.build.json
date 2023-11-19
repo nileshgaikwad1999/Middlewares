@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "PzcOUvhkZpI8EgjjQHl94CTDk4F7hrviL6Xv8+IE7P4=",
+  "Source": "WebApplication3",
+  "BasePath": "_content/WebApplication3",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApplication3\\wwwroot",
+      "Source": "WebApplication3",
+      "ContentRoot": "D:\\Task\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "BasePath": "_content/WebApplication3",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
